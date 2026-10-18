@@ -39,8 +39,9 @@ public class Wirnik {
     }
 
     /**
-     * Metoda przekształcająca wprowadzony sygnał na podstawie aktualnej 
-     * pozycji obrotu oraz wewnętrznego okablowania.
+     * Metoda przekształcająca wprowadzony sygnał na podstawie aktualnej pozycji
+     * obrotu oraz wewnętrznego okablowania.
+     *
      * @param wejscie
      * @return
      */
@@ -57,6 +58,7 @@ public class Wirnik {
     /**
      * Metoda symuluje przepływ prądu przez wirnik w kierunku powrotnym.
      * Działanie jest matematyczną odwrotnością metody szyfrujWPrzod.
+     *
      * @param wejscie
      * @return
      */
